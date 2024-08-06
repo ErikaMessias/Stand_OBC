@@ -361,8 +361,16 @@ body {
         margin: 0 auto; 
     }
 
+    .content5{
+        margin: 0;
+        padding: 0;
+        padding-top: 10px;
+    }
     .content5 > img {
-        width: 450px;
+        width: 380px;
+        padding-top: 10px;
+        margin:0;
+        padding: 0;
     }
 
 
